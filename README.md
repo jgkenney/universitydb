@@ -1,4 +1,5 @@
 # universitydb
+this is the homework for week 2
 
 ## update mySQL root password:
 Navigate to XAMPP "General" tab and click "Open Terminal".
