@@ -8,9 +8,9 @@ clone into htdocs
 ## location of hw answers:
 
 ### Task 1: Southern Connecticut State University Database Creation
-table creation: [create.php](//localhost:8080/universitydb/create.php)
+table creation: [create.php](http://localhost:8080/universitydb/create.php)
 
-data insertion: [insert.php](//localhost:8080/universitydb/insert.php)
+data insertion: [insert.php](http://localhost:8080/universitydb/insert.php)
 
 
 
@@ -25,11 +25,11 @@ on windows, run this in mysql:
     SOURCE C:\XAMPP\htdocs\universitydb\query.sql
 
 ### Task 3: Developing Backend—Data Manipulation from PHP File
-launch php: [indexForDMLPractice.php](https://localhost:8080/universitydb/indexForDMLPractice.php)
+launch php: [indexForDMLPractice.php](http://localhost:8080/universitydb/indexForDMLPractice.php)
 
 ### Task 4: Developing Frontend—Inserting data using form
-launch php: [indexForWelcome.php](https://localhost:8080/universitydb/indexForWelcome.php)
+launch php: [indexForWelcome.php](http://localhost:8080/universitydb/indexForWelcome.php)
 
 ### Bonus: ER Diagram
-ER diagram: [er.png](https://github.com/jgkenney/universitydb/tree/master/er.png)
+ER diagram: [er.png](http://github.com/jgkenney/universitydb/tree/master/er.png)
 
