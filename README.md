@@ -12,8 +12,7 @@ table creation: [create.php](https://github.com/jgkenney/universitydb/tree/maste
 \
 data insertion: [insert.php](https://github.com/jgkenney/universitydb/tree/master/php/insert.php)\
 \
-ER diagram: [er.png](https://github.com/jgkenney/universitydb/tree/master/er.png)\
-
+ER diagram: [er.png](https://github.com/jgkenney/universitydb/tree/master/er.png)
 
 ### Task 2: Data Manipulation using SQL Command
 login to xampp command line
