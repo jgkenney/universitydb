@@ -30,6 +30,6 @@ launch php: [indexForDMLPractice.php](https:localhost:8080/univrsitydb/indexForD
 ### Task 4: Developing Frontend—Inserting data using form
 launch php: [indexForWelcome.php](https:localhost:8080/univrsitydb/indexForWelcome.php)
 
-#### Bonus: ER Diagram
+### Bonus: ER Diagram
 ER diagram: [er.png](https://github.com/jgkenney/universitydb/tree/master/er.png)
 
