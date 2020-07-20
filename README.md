@@ -8,9 +8,9 @@ clone into htdocs
 ## location of hw answers:
 
 ### Task 1: Southern Connecticut State University Database Creation
-table creation: [create.php](https://github.com/jgkenney/universitydb/tree/master/create.php)
+table creation: [create.php](https://localhost:8080/univrsitydb/create.php)
 
-data insertion: [insert.php](https://github.com/jgkenney/universitydb/tree/master/insert.php)
+data insertion: [insert.php](https://localhost:8080/univrsitydb/insert.php)
 
 
 
