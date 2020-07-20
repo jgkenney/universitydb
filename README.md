@@ -11,11 +11,13 @@ clone into htdocs
 localhost:80
 
 table creation: [create.php](http://localhost:80/universitydb/create.php)
+
 data insertion: [insert.php](http://localhost:80/universitydb/insert.php)
 
 localhost:8080   
 
 table creation: [create.php](http://localhost:8080/universitydb/create.php)
+
 data insertion: [insert.php](http://localhost:8080/universitydb/insert.php)
 
 ### Task 2: Data Manipulation using SQL Command
