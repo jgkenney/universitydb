@@ -7,11 +7,11 @@ clone into htdocs
 
 ## location of hw answers:
 
-### Task 1: Southern Connecticut State University Database Creation\
+### Task 1: Southern Connecticut State University Database Creation
 table creation: [create.php](https://github.com/jgkenney/universitydb/tree/master/create.php)\
-\
+
 data insertion: [insert.php](https://github.com/jgkenney/universitydb/tree/master/insert.php)\
-\
+
 
 
 ### Task 2: Data Manipulation using SQL Command
