@@ -8,15 +8,9 @@ clone into htdocs
 ## location of hw answers:
 
 ###Task 1: Southern Connecticut State University Database Creation
-ER diagram, see:
-
-    er.png
-table creation, see:
-
-    php/create.php for prepared statements to create database and tables
-data insertion, see:
-
-    php/insert.php for prepared statemetns to insert data into tables
+ER diagram, see: [er.png](https://github.com/jgkenney/universitydb/er.png)
+table creation, see:[er.png](https://github.com/jgkenney/universitydb/php/create.php)
+data insertion, see:[er.png](https://github.com/jgkenney/universitydb/php/insert.php)
 
 ###Task 2: Data Manipulation using SQL Command
 login to xampp command line
