@@ -8,7 +8,7 @@ clone into htdocs
 ## location of hw answers:
 
 ### Task 1: Southern Connecticut State University Database Creation
-localhost:80
+*localhost:80
 
 - table creation: [create.php](http://localhost:80/universitydb/create.php)
 
