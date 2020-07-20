@@ -16,9 +16,9 @@ localhost:80
 
 localhost:8080   
 
-table creation: [create.php](http://localhost:8080/universitydb/create.php)
+- table creation: [create.php](http://localhost:8080/universitydb/create.php)
 
-data insertion: [insert.php](http://localhost:8080/universitydb/insert.php)
+- data insertion: [insert.php](http://localhost:8080/universitydb/insert.php)
 
 ### Task 2: Data Manipulation using SQL Command
 login to xampp command line
@@ -33,22 +33,27 @@ on windows, run this in mysql:
 ### Task 3: Developing Backend—Data Manipulation from PHP File
 localhost:80
 
-php data manipulation: [indexForDMLPractice.php](http://localhost:80/universitydb/indexForDMLPractice.php)
+- php data manipulation: [indexForDMLPractice.php](http://localhost:80/universitydb/indexForDMLPractice.php)
 
 localhost:8080
 
-php data manipulation: [indexForDMLPractice.php](http://localhost:8080/universitydb/indexForDMLPractice.php)
+- php data manipulation: [indexForDMLPractice.php](http://localhost:8080/universitydb/indexForDMLPractice.php)
 
 ### Task 4: Developing Frontend—Inserting data using form
-php data insert: [indexForWelcome.php](http://localhost:80/universitydb/indexForWelcome.php)
-php data insert: [indexForWelcome.php](http://localhost:8080/universitydb/indexForWelcome.php)
+localhost:80
+
+- php data insert: [indexForWelcome.php](http://localhost:80/universitydb/indexForWelcome.php)
+
+localhost:8080
+
+- php data insert: [indexForWelcome.php](http://localhost:8080/universitydb/indexForWelcome.php)
 
 ### Bonus: ER Diagram
 localhost:80
 
-ER diagram: [er.png](http://localhost:80/universitydb/er_diagram.png)
+- ER diagram: [er.png](http://localhost:80/universitydb/er_diagram.png)
 
 localhost:8080
 
-ER diagram: [er.png](http://localhost:8080/universitydb/er_diagram.png)
+- ER diagram: [er.png](http://localhost:8080/universitydb/er_diagram.png)
 
