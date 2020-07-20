@@ -8,12 +8,13 @@ clone into htdocs
 ## location of hw answers:
 
 ###Task 1: Southern Connecticut State University Database Creation
-ER diagram -> er.png
+ER diagram, see:
 
-see
+    er.png
+table creation, see:
 
     php/create.php for prepared statements to create database and tables
-see
+data insertion, see:
 
     php/insert.php for prepared statemetns to insert data into tables
 
