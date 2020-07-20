@@ -8,9 +8,10 @@ clone into htdocs
 ## location of hw answers:
 
 ###Task 1: Southern Connecticut State University Database Creation
-ER diagram, see: [er.png](https://github.com/jgkenney/universitydb/tree/master/er.png)
-table creation, see:[er.png](https://github.com/jgkenney/universitydb/tree/master/php/create.php)
-data insertion, see:[er.png](https://github.com/jgkenney/universitydb/tree/master/php/insert.php)
+table creation, see:[create.php](https://github.com/jgkenney/universitydb/tree/master/php/create.php)\
+data insertion, see:[insert.php](https://github.com/jgkenney/universitydb/tree/master/php/insert.php)\
+ER diagram, see: [er.png](https://github.com/jgkenney/universitydb/tree/master/er.png)\
+
 
 ###Task 2: Data Manipulation using SQL Command
 login to xampp command line
