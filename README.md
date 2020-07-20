@@ -1,7 +1,6 @@
 # universitydb
 csc545 hw2
 
-##
 clone into htdocs
 
     git clone https://github.com/jgkenney/universitydb.git
