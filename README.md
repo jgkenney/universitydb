@@ -4,7 +4,7 @@ csc545 hw2
 ##
 clone into htdocs
 
-            git clone https://github.com/jgkenney/universitydb.git
+    git clone https://github.com/jgkenney/universitydb.git
 
 ## location of hw answers:
 
@@ -15,11 +15,11 @@ see php/insert.php for prepared statemetns to insert data into tables
 
 ###Task 2: Data Manipulation using SQL Command
 login to xampp command line
-on mac/ linux:
+on mac/ linux, run this on mysql:
 
-            SOURCE /opt/lampp/htdocs/universitydb/query.sql
+    SOURCE /opt/lampp/htdocs/universitydb/query.sql
     
-on windows:
+on windows, run this in mysql:
 
-            SOURCE C:\XAMPP\htdocs\universitydb\query.sql
+    SOURCE C:\XAMPP\htdocs\universitydb\query.sql
 
