@@ -25,10 +25,10 @@ on windows, run this in mysql:
     SOURCE C:\XAMPP\htdocs\universitydb\query.sql
 
 ### Task 3: Developing Backend—Data Manipulation from PHP File
-launch php: [indexForDMLPractice.php](http://localhost:8080/universitydb/indexForDMLPractice.php)
+php data manipulation: [indexForDMLPractice.php](http://localhost:8080/universitydb/indexForDMLPractice.php)
 
 ### Task 4: Developing Frontend—Inserting data using form
-launch php: [indexForWelcome.php](http://localhost:8080/universitydb/indexForWelcome.php)
+php data insert: [indexForWelcome.php](http://localhost:8080/universitydb/indexForWelcome.php)
 
 ### Bonus: ER Diagram
 ER diagram: [er.png](http://github.com/jgkenney/universitydb/tree/master/er.png)
