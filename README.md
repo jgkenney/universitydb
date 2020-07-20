@@ -1,7 +1,14 @@
 # universitydb
 ## csc545 hw2 
 
-clone into htdocs
+## update mySQL root password:
+Navigate to XAMPP "General" tab and click "Open Terminal".
+
+        mysql -u root -p
+        *enter your default password*
+        UPDATE mysql.user SET Password=PASSWORD('dingdong') WHERE User='root'; FLUSH PRIVILEGES;
+
+## clone into htdocs
 
     git clone https://github.com/jgkenney/universitydb.git
 
